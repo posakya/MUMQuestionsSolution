@@ -21,19 +21,6 @@ public class isFancy {
             int a = 1, b = 1, c = 0;
             if (n == 1)
                 return 1;
-            
-//             for(int i=2; i<=n; ++i){
-//             
-//             c = 3*b +2* a;
-//             a=b;
-//             b=c;
-//             
-//             if(c==n){
-//                 isFancy = 1;
-//             }
-//             
-      //  }
-        
                
             while(c<n)
             {
